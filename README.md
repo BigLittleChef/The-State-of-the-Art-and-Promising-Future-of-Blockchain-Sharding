@@ -9,3 +9,6 @@
 [4]Hong, Zicong, Song Guo, Enyuan Zhou, Wuhui Chen, Huawei Huang, and Albert Zomaya. "Gridb: scaling blockchain database via sharding and off-chain cross-shard mechanism." Proceedings of the VLDB Endowment 16, no. 7 (2023): 1685-1698.
 
 [5]Hong, Zicong, Song Guo, and Peng Li. "Scaling blockchain via layered sharding." IEEE Journal on Selected Areas in Communications 40, no. 12 (2022): 3575-3588.
+
+[6]Liu, Yizhong, Jianwei Liu, Marcos Antonio Vaz Salles, Zongyang Zhang, Tong Li, Bin Hu, Fritz Henglein, and Rongxing Lu. "Building blocks of sharding blockchain systems: Concepts, approaches, and open problems." Computer Science Review 46 (2022): 100513.
+[7]Liu, Xinmeng, Haomeng Xie, Zheng Yan, and Xueqin Liang. "A survey on blockchain sharding." ISA transactions 141 (2023): 30-43.
